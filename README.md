@@ -6,9 +6,6 @@
 
 [쿠팡이츠 ERD 설계](https://aquerytool.com/aquerymain/index/?rurl=3dcbccc4-495e-44a4-88a6-ed082c5a268d&) (PW: 1hg0tj)
 
-![쿠팡이츠 ERD 설계.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d746bf9-b371-4dce-809d-d733e364d9a0/쿠팡이츠_ERD_설계.png)
-
-쿠팡이츠 ERD 설계
 
 ## 개발일지
 
