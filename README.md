@@ -1,10 +1,8 @@
 # Counpang Eats API server
 
 **쿠팡이츠 API 서버 설계(21.08.14 ~ 21.08.27)**
-
-[쿠팡이츠 API 명세서](https://docs.google.com/spreadsheets/d/10rweviPboyHs9YBqAhjhbYWCdO2VhGejhtV1mAKaTig/edit?usp=sharing)
-
-[쿠팡이츠 ERD 설계](https://aquerytool.com/aquerymain/index/?rurl=3dcbccc4-495e-44a4-88a6-ed082c5a268d&) (PW: 1hg0tj)
+- [쿠팡이츠 API 명세서](https://docs.google.com/spreadsheets/d/10rweviPboyHs9YBqAhjhbYWCdO2VhGejhtV1mAKaTig/edit?usp=sharing)
+- [쿠팡이츠 ERD 설계](https://aquerytool.com/aquerymain/index/?rurl=3dcbccc4-495e-44a4-88a6-ed082c5a268d&) (PW: 1hg0tj)
 <img width="2316" alt="쿠팡이츠 ERD 설계" src="https://user-images.githubusercontent.com/59843639/131357654-c87872cc-d424-4291-a5d4-1126f2ec497d.png">
 
 ## 개발일지
