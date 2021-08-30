@@ -1,0 +1,12 @@
+log/*
+.idea/*
+node_modules/*
+
+package-lock.json
+
+.DS_Store
+
+config/secret.js
+config/database.js
+# index.js
+# app.js
