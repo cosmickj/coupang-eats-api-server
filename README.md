@@ -1,5 +1,6 @@
 # Counpang Eats API server
 쿠팡 이츠 API 서버 설계(for 라이징테스트)
+[구글 스프레드 - API 명세서 쿠팡이츠B](https://docs.google.com/spreadsheets/d/10rweviPboyHs9YBqAhjhbYWCdO2VhGejhtV1mAKaTig/edit?usp=sharing)
 
 # 2021-08-14
 - EC2 인스턴스 생성
@@ -22,7 +23,6 @@
 
 # 2021-08-16
 - API 명세서 공유
-    - [구글 스프레드 - API 명세서 쿠팡이츠B](https://docs.google.com/spreadsheets/d/10rweviPboyHs9YBqAhjhbYWCdO2VhGejhtV1mAKaTig/edit?usp=sharing)
 - ERD 설계하기
 - 회원가입, 로그인 API 빌드 완료
 
